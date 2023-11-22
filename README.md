@@ -2,7 +2,7 @@
 
 # Parallax
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rv7GrtmUrPU" frameborder="0" allowfullscreen></iframe>
+![](https://youtu.be/UdNA7kanRQE)
 
 In this sample, we demonstrate how to use a parallax effect to simulate depth in the game world.
 There are two layers of clouds, where one of the layers has the appearance of being further back than the other. There is also an animated saucer for flavor.
